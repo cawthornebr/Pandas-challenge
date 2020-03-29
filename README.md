@@ -3,7 +3,8 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 ### Player Count
 
 * Total Number of Players
-![pc](Resources/Images/pc.png)
+
+![pc](Resources/Images/ad.PNG)
 
 ### Purchasing Analysis (Total)
 
