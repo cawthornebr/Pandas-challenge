@@ -3,7 +3,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 ### Player Count
 
 * Total Number of Players
-![Resources\pc.png](Resources\pc.png)
+![pc](Resources\pc.png)
 
 ### Purchasing Analysis (Total)
 
@@ -12,7 +12,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 * Total Number of Purchases
 * Total Revenue
 
-![Resources\pa.png](Resources\pa.png)
+![pa](Resources\pa.png)
 
 ### Gender Demographics
 
@@ -20,7 +20,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-![Resources\gd.png](Resources\gd.png)
+![gd](Resources\gd.png)
 
 ### Purchasing Analysis (Gender)
 
@@ -30,7 +30,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-![Resources\pag.png](Resources\pag.png)
+![pag](Resources\pag.png)
 
 ### Age Demographics
 
@@ -40,9 +40,9 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-![Resources\ad.png](Resources\ad.png)
+![ad](Resources\ad.png)
 
-![Resources\paad.png](Resources\paad.png)
+![paad](Resources\paad.png)
 
 ### Top Spenders
 
@@ -52,7 +52,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Average Purchase Price
   * Total Purchase Value
 
-![Resources\ts.png](Resources\ts.png)
+![ts](Resources\ts.png)
 
 ### Most Popular Items
 
@@ -63,7 +63,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Item Price
   * Total Purchase Value
 
-![Resources\pi.png](Resources\pi.png)
+![pi](Resources\pi.png)
 
 ### Most Profitable Items
 
@@ -74,4 +74,4 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Item Price
   * Total Purchase Value
 
-![Resources\profi.png](Resources\profi.png)
+![profi](Resources\profi.png)
