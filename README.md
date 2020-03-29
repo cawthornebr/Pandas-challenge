@@ -3,7 +3,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 ### Player Count
 
 * Total Number of Players
-![pc](Resources\pc.png)
+![pc](Resources/Images/pc.png)
 
 ### Purchasing Analysis (Total)
 
@@ -12,7 +12,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 * Total Number of Purchases
 * Total Revenue
 
-![pa](Resources\pa.png)
+![pa](Resources/Images/pa.png)
 
 ### Gender Demographics
 
@@ -20,7 +20,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-![gd](Resources\gd.png)
+![gd](Resources/Images/gd.png)
 
 ### Purchasing Analysis (Gender)
 
@@ -30,7 +30,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-![pag](Resources\pag.png)
+![pag](Resources/Images/pag.png)
 
 ### Age Demographics
 
@@ -40,9 +40,9 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-![ad](Resources\ad.png)
+![ad](Resources/Images/ad.png)
 
-![paad](Resources\paad.png)
+![paad](Resources/Images/paad.png)
 
 ### Top Spenders
 
@@ -52,7 +52,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Average Purchase Price
   * Total Purchase Value
 
-![ts](Resources\ts.png)
+![ts](Resources/Images/ts.png)
 
 ### Most Popular Items
 
@@ -63,7 +63,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Item Price
   * Total Purchase Value
 
-![pi](Resources\pi.png)
+![pi](Resources/Images/pi.png)
 
 ### Most Profitable Items
 
@@ -74,4 +74,4 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
   * Item Price
   * Total Purchase Value
 
-![profi](Resources\profi.png)
+![profi](Resources/Images/profi.png)
