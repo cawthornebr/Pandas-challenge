@@ -4,7 +4,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 
 * Total Number of Players
 
-<img src="Resources/Images/pc.PNG" width=800 /> ![](Resources/Images/pc.PNG)
+![](Resources/Images/pc.PNG)
 
 ### Purchasing Analysis (Total)
 
