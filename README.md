@@ -21,7 +21,7 @@ Here I'm analyzing a video games purchasing data. Like many others in its genre,
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-![](Resources/Images/pd.PNG)
+![](Resources/Images/gd.PNG)
 
 ### Purchasing Analysis (Gender)
 
